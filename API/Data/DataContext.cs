@@ -1,3 +1,4 @@
+using System;
 using API.Entities;
 using Microsoft.EntityFrameworkCore;
 
@@ -10,5 +11,10 @@ namespace API.Data
         }
 
         public DbSet<AppUser> Users { get; set; }
+
+        internal object Find(int id)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
