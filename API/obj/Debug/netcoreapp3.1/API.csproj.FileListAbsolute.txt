@@ -80,3 +80,4 @@ C:\Users\david\DatingApp\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp
 C:\Users\david\DatingApp\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\david\DatingApp\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
 C:\Users\david\DatingApp\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\david\DatingApp\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
